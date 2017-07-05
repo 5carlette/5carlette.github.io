@@ -1,4 +1,3 @@
-
 html { font-family: sans-serif; text-size-adjust: 100%; }
 body { margin: 0px; }
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary { display: block; }
@@ -250,4 +249,20 @@ footer { padding: 100px 0px; }
 #title {font-size: 100}
 #subtitle {font-size: 35}
 #wix {color: blue}
-
+#ref {background-color: #337ab7;
+}
+#sections {
+      border-radius: 50px;
+      border: 5px solid rgba(0, 0, 0, 0.7);
+      padding: 20px;
+      margin-bottom: 10px;
+      width: 800px;
+      height: 225px;
+      background-color: white;
+      font-size: 15;
+      text-align: center;
+      margin: auto;
+  }
+#white {color: white}
+#white_grow {color: white;
+      font-size: 30}
